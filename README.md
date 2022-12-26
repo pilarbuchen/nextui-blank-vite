@@ -1,4 +1,4 @@
-# Blank Vite Scss Boilerplate for Codux
+# Vite SCSS Boilerplate for Codux
 
 This project was bootstrapped with [Vite](https://vitejs.dev).
 
