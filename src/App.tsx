@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import classNames from 'classnames';
 import reactLogo from './assets/react.svg';
-import viteLogo from './assets/vite.svg';
+import viteLogo from '../public/vite.svg';
 import styles from './App.module.scss';
 
 function App() {
